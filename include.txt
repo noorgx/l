@@ -1,0 +1,9 @@
+novel.pixiv.net
+payment.pixiv.net
+dic.pixiv.net
+hub.vroid.com
+accounts.pixiv.net
+sensei.pixiv.net
+sketch.pixiv.net
+comic.pixiv.net
+

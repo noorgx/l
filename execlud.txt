@@ -1,0 +1,2 @@
+factory.pixiv.net
+*.pixiv.co.jp
